@@ -1,0 +1,13 @@
+{
+    "blogs":[
+        {
+            "id":"1",
+            "author":"siva",
+            "title":"hacker"
+        },{
+            "id":"2",
+            "author":"sss",
+            "title":"springBoot"
+        }
+]
+}
